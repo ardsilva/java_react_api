@@ -1,9 +1,9 @@
 # Spring boot + ReactJS API applicantion
 
 ## Pre conditions
-java: >=17
+java: >=17 (If you need to install in UNIX system, `https://sdkman.io/`)
 <br />
-node: >=18
+node: >=18 (If you need to install in UNIX system, `wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`)
 <br />
 react: >=16
 <br />
