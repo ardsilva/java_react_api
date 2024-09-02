@@ -1,4 +1,4 @@
-# Spring boot + ReactJS API applicantion
+# Spring boot + ReactJS API application
 
 ## Pre conditions
 java: >=17 (If you need to install in UNIX system, `https://sdkman.io/`)
